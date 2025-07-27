@@ -1,12 +1,8 @@
 # Tutorial: Inverse Reinforcement Learning Meets Large Language Model Alignment (Post-Training)
 
-## Please check our write-up at [Arxiv](https://huggingface.co/papers/2507.13158)
+## Please check our [write-up at Arxiv](https://huggingface.co/papers/2507.13158)
 
 ### [Tutorial Website](https://sites.google.com/view/irl-llm)
-
-
-### Arxiv Preprint is Online!
-[Arxiv Preprint](https://arxiv.org/pdf/2507.13158)
 
 ### Slide for AAAI-25 Tutorial 
 [Slide (2025.02.25)](https://github.com/holarissun/InverseRLmeetsLLMs/blob/main/IRLxLLMs_Feb25.pdf)
